@@ -7,3 +7,5 @@ Second Change
 
 
 Changed from local working area.
+
+Changed from local repository.
